@@ -1,0 +1,21 @@
+.flex{
+    display: flex;
+    gap: var(--gap,3rem);
+}
+.primary-header{
+    align-items: center;
+    justify-content: space-between;
+}
+.primary-navigation
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.primary-navigation a{
+    text-decoration: none;
+}
+.primary-navigation a > [aria-hidden="true"]{
+    font-weight: 700;
+    margin-inline-end: .5rem;
+}

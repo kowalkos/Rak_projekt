@@ -1,0 +1,45 @@
+.main-nav-bar
+{
+    padding-top: 20px;
+    width:80%;
+    margin:auto;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+.nav-bar{
+    float: left;
+    width:calc(99%/4);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(134, 157, 148);
+    border: 1px solid brown;
+}
+.nav-bar__inside{
+    
+    width:calc(99%/1.4);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: red;
+    border: 1px solid brown;
+    position:initial;
+    right: 0px;
+    margin-top: 5px;
+    transform: translateY(-100%); 
+    
+}
+.nav-bar__roll-down
+{
+    float: left;
+    width:calc(99%/4);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    max-height: 20px;
+    background-color: rgb(134, 157, 148);
+    border: 1px solid brown;
+}
+.nav-bar__roll-down:hover .nav-bar__inside
+{
+    transform: translateY(0); 
+}

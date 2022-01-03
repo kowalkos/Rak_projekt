@@ -1,0 +1,7 @@
+.flex{
+    display: flex;
+    gap: var(--gap,3rem);
+}
+.primary-header{
+    align-items: center;
+}

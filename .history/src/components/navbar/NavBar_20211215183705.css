@@ -1,0 +1,12 @@
+.main-nav-bar
+{
+    margin:auto;
+    width:80%;
+}
+.nav-bar{
+    float: left;
+    width:calc(99%/4);
+    background-color: yellow;
+    border: 1px solid red;
+    
+}
