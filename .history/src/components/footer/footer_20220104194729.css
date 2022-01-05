@@ -1,0 +1,11 @@
+.footer
+{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    bottom: 1rem;
+    position: fixed;
+}
+.footer a{
+    color: red;
+}

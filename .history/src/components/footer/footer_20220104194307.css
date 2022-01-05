@@ -1,0 +1,9 @@
+.footer
+{
+    left: 10rem;
+    bottom: 10px;
+    position: fixed;
+}
+.footer a{
+    color: red;
+}

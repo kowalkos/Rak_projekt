@@ -1,0 +1,18 @@
+.footer
+{
+
+
+    margin: 0 auto;
+
+}
+.footer a{
+    color: red;
+}
+.footerWrap
+{
+    bottom: 1rem;
+    position: fixed;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}

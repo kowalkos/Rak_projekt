@@ -1,0 +1,10 @@
+.footer
+{
+    align-items: center;
+
+    bottom: 10px;
+    position: fixed;
+}
+.footer a{
+    color: red;
+}

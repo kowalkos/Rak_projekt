@@ -1,0 +1,10 @@
+.footer
+{
+    text-align: center;
+
+    bottom: 10px;
+    position: fixed;
+}
+.footer a{
+    color: red;
+}

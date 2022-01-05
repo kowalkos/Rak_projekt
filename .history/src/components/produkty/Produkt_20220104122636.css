@@ -1,0 +1,10 @@
+.references
+{
+    text-align: center;
+}
+.references a {
+    color: white;
+    display: inline-block;
+    padding: 0rem 1rem;
+    margin:0 1rem;
+}

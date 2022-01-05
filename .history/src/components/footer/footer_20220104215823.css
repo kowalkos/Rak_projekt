@@ -1,0 +1,20 @@
+.footer
+{
+    width: 80%;
+    margin: 0 auto;
+}
+.upArrow
+{
+    display: block;
+    position: fixed;
+    width: 2.25rem;
+    aspect-ratio: 1;
+    right: 1rem;
+    bottom: 1rem;
+    z-index: 10000;
+    background-color: transparent;
+    background-image: url(/src/img/arrow_up.svg);
+    background-repeat: no-repeat;
+    border: 0px;
+
+}

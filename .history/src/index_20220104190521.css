@@ -1,0 +1,8 @@
+body {
+margin: 0;
+   background-image: url('/src/img/tlo.jpg'); 
+  background-color: blue;
+  overflow-x: hidden;
+  color: black;
+}
+

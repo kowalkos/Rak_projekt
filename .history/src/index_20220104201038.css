@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-image: url('/src/img/tlo.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+  color: #fff;
+
+  min-width: 325px;
+}

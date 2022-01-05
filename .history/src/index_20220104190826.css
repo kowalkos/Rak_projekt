@@ -1,0 +1,8 @@
+body {
+margin: 0;
+   background-image: url('/src/img/tlo.jpg'); 
+  overflow-x: hidden;
+  color: #fff;
+  text-shadow: 1px 0 0 #000 , 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+

@@ -1,0 +1,21 @@
+.references
+{
+    text-align: center;
+}
+.references a {
+    color: white;
+    display: inline-block;
+    padding: 0rem 1rem;
+    margin:0 1rem;
+}
+h2{
+    margin: 1rem auto;
+    width: max(80%,300px);
+}
+p
+{
+    padding: 0rem 2rem;
+    margin: 1rem auto;
+    width: max(80%,300px);
+   
+}

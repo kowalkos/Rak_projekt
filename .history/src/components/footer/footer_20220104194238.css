@@ -1,0 +1,11 @@
+.footer
+{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    bottom: 10px;
+    position: fixed;
+}
+.footer a{
+    color: red;
+}

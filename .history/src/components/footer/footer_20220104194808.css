@@ -1,0 +1,12 @@
+.footer
+{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    bottom: 1rem;
+    position: fixed;
+}
+.footer a{
+    color: red;
+}
