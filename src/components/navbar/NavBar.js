@@ -39,25 +39,25 @@ function NavBar(props) {
                 </li> */}
                 <li>
                     <Link to='/produkty' >
-                        <span aria-hidden="true">01</span>
+                        <span aria-hidden="true"></span>
                         Katalog Produktów
                     </Link>
                 </li>
                 <li>
                     <Link to='/galeria' >
-                        <span aria-hidden="true">02</span>
+                        <span aria-hidden="true"></span>
                         Galeria
                     </Link>
                 </li>
                 <li>
                     <Link to='/Faq' >
-                        <span aria-hidden="true">03</span>
+                        <span aria-hidden="true"></span>
                         FAQ
                     </Link>
                 </li>
                 <li>
                     <Link to='/about' >
-                        <span aria-hidden="true">04</span>
+                        <span aria-hidden="true"></span>
                         Kontakt
                     </Link>
                 </li>
