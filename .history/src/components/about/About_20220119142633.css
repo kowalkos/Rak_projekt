@@ -1,0 +1,36 @@
+.blok
+{
+    width: 22rem;
+    margin: 3rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+textarea{
+    border-radius: 5px;
+}
+.email-input
+{
+    display: inline-block;
+    width:15rem;
+    margin-top: -10px;
+    border-radius: 5px;
+}
+.mail-text
+{
+    margin: 1rem auto;
+   display: inline-block;
+   width: 20rem;
+}
+.button-send
+{
+    display:inline-block;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+@supports(backdrop-filter: blur(1rem)) {
+    .blok{
+        backdrop-filter: blur(1rem);
+        border-radius: 5%;
+    }
+}

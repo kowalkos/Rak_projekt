@@ -1,0 +1,20 @@
+.blok
+{
+    width: 60%;
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+}
+.email-input
+{
+    float: left;
+}
+.mail-text
+{
+
+}
+@supports(backdrop-filter: blur(1rem)) {
+    .blok{
+        backdrop-filter: blur(4rem);
+    }
+}

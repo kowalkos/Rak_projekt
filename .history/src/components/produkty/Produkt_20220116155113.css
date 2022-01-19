@@ -1,0 +1,41 @@
+.references
+{
+    width: 100%;
+    text-align: center;
+}
+.references a {
+    color: black;
+    display: inline-block;
+    padding: 0rem 1rem;
+    margin:0 1rem;
+    
+}
+h2{
+    margin: 1rem auto;
+    width: max(70%,300px);
+}
+@supports(backdrop-filter: blur(1rem)) {
+    .items{
+        backdrop-filter: blur(1rem);
+        border: 2px solid black;
+    }
+}
+.items
+{
+    width: max(30%,250px);
+   padding: 0 1rem;
+}
+.items >img{
+    max-width: 100%;
+    padding-top: 1rem;
+}
+.wrapper{
+    width: 100%;
+}
+.container
+{
+    width: 90%;
+    margin-inline: auto;
+    display: grid;
+    gap:1rem;
+}

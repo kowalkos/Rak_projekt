@@ -1,0 +1,24 @@
+.blok
+{
+    width: 22rem;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.email-input
+{
+    display: inline-block;
+    width:10rem;
+}
+.mail-text
+{
+   display: inline-block;
+   width: 20rem;
+}
+@supports(backdrop-filter: blur(1rem)) {
+    .blok{
+        backdrop-filter: blur(1rem);
+        border-radius: 4%;
+    }
+}
