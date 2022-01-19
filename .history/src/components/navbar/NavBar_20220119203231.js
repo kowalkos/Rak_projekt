@@ -40,25 +40,25 @@ function NavBar(props) {
                 <li>
                     <Link to='/produkty' >
                         <span aria-hidden="true"></span>
-                        <p className='p-tag'>Katalog Produktów</p>
+                        <p>Katalog Produktów</p>
                     </Link>
                 </li>
                 <li>
                     <Link to='/galeria' >
                         <span aria-hidden="true"></span>
-                        <p className='p-tag'>Galeria</p>
+                        <p>Galeria</p>
                     </Link>
                 </li>
                 <li>
                     <Link to='/Faq' >
                         <span aria-hidden="true"></span>
-                        <p className='p-tag'>FAQ</p>
+                        <p>FAQ</p>
                     </Link>
                 </li>
                 <li>
                     <Link to='/about' >
                         <span aria-hidden="true"></span>
-                        <p className='p-tag'>Kontakt</p>
+                        <p>Kontakt</p>
                     </Link>
                 </li>
             </ul>

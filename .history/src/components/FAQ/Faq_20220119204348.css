@@ -1,0 +1,11 @@
+h1{
+    margin: 1rem auto;
+    color: black;
+    -webkit-text-stroke: 1px white;
+    width: max(70%,300px);
+    font-size: 2rem;
+}
+p{
+    font-size: large;
+    width:60%
+}

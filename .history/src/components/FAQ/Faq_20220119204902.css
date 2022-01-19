@@ -1,0 +1,18 @@
+h1{
+    margin: 1rem auto;
+    color: black;
+    -webkit-text-stroke: 0.5px white;
+    width: max(70%,300px);
+    font-size: 2rem;
+}
+.p-text{
+    font-size: large;
+    margin: 0 auto;
+    font-weight: 500;
+}
+.container-faq{
+    width: 70%;
+    margin: 0 auto;
+    backdrop-filter: blur(1rem);
+    border-radius: 10rem;
+}

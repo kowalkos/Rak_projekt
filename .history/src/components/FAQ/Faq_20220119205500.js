@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import "./Faq.css";
 function Faq(props) {
     return <div>
@@ -12,7 +11,7 @@ function Faq(props) {
             <h1 className="h1-faq">
                 Czy można zamówić spresonalizowaną kokardę?
             </h1>
-            <p className="p-text">Tak. Wystarczy napisać maila/wiadomość prywatną by omówić szczegóły. Można to zrobić w zakładce <Link to="/about">Kontakt</Link></p>
+            <p className="p-text">Tak. Wystarczy napisać maila/wiadomość prywatną by omówić szczegóły</p>
         </div>
     </div>
 }
